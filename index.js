@@ -5,7 +5,7 @@ module.exports = url2png;
 
 
 function url2png(apiKey, privateKey) {
-    var prefix = '//api.url2png.com/v6/';
+    var prefix = '//alpha.url2png.com/v6/';
     var format = 'png'
     var lib = {};
 
